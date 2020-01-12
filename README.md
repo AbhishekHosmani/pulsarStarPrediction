@@ -1,7 +1,7 @@
 Pulsar Star Prediction
 
 
-Analyzing HTRU2 dataset describing the sample pulsar candidates collected durin Hight Time resolution Universe Survey.
+Analyzing HTRU2 dataset describing the sample pulsar candidates collected during Hight Time Resolution Universe Survey.
 
 Project Plan:
 1. Data Exploration and Visualization
